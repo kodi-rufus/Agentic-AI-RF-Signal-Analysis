@@ -1,25 +1,35 @@
 
-# Agentic AI-Based RF Signal Analysis & Classification
+# Agentic AI-Based RF Signal Analysis and Classification
+
+## Project Gallery
+
+![RF Signal Analysis – Project Image 1](IMG-20261112-WA0004.jpg)
+
+![RF Signal Analysis – Project Image 2](IMG-20261112-WA0007.jpg)
+
+![RF Signal Analysis – Project Image 3](IMG-20261112-WA0005.jpg)
+
+![RF Signal Analysis – Project Image 4](IMG-20261112-WA0008.jpg)
+
+---
 
 ## Project Overview
-An AI-assisted RF signal analysis system designed to simulate, analyse, and classify different types of radio frequency signals using Python and Agentic AI concepts.
 
-## Objectives
-- Analyse RF signals using signal-processing techniques.
-- Identify different modulation schemes.
-- Extract important signal parameters.
-- Present analysis results through an interactive interface.
+An Agentic AI-based RF Signal Analysis system designed to simulate, analyse and classify different radio frequency signals using Python and signal-processing techniques.
 
-## Technologies Used
-- Python
-- LangGraph
-- NumPy
-- SciPy
-- Scikit-learn
-- Streamlit
-- Agentic AI
+The project explores how signal processing and AI concepts can support RF signal analysis and parameter estimation.
 
-## Modulation Techniques
+## Key Features
+
+- RF signal simulation
+- Modulation classification
+- FFT-based frequency analysis
+- Signal parameter estimation
+- Interactive visualisation
+- Agentic AI-based analysis workflow
+
+## Modulation Types Covered
+
 - BPSK
 - QPSK
 - ASK
@@ -29,35 +39,47 @@ An AI-assisted RF signal analysis system designed to simulate, analyse, and clas
 - FM
 - PM
 
-## Signal Parameters
-- Carrier frequency
+## Signal Parameters Explored
+
+- Carrier Frequency
 - Bandwidth
-- Signal amplitude
-- RMS value
-- Signal power
-- Signal-to-noise ratio (SNR)
+- Amplitude
+- RMS Value
+- Signal Power
+- Signal-to-Noise Ratio (SNR)
 - Phase
-- Sampling frequency
-- Peak frequency
+- Sampling Frequency
+- Peak Frequency
 
-## Key Features
-- RF signal simulation and analysis
-- Modulation classification
-- FFT-based signal analysis
-- Signal parameter estimation
-- Interactive visualisation
+## Technologies and Tools
 
-## Project Screenshots
-Screenshots of the project interface and analysis results are included in this repository.
+- Python
+- NumPy
+- SciPy
+- Scikit-learn
+- Streamlit
+- LangGraph
+- Agentic AI Concepts
 
 ## Learning Outcomes
-- Understanding RF signal characteristics
-- Practical exposure to Python-based signal processing
-- Introduction to Agentic AI workflows
-- Understanding modulation classification concepts
 
-## Project Status
-Academic Project – 2026
+- Fundamentals of RF signal processing
+- Digital and analog modulation concepts
+- FFT and frequency-domain analysis
+- Signal parameter estimation
+- Python-based technical computing
+- Exploring AI-assisted signal analysis workflows
+
+## Project Details
+
+| Category | Details |
+|---|---|
+| Domain | RF and Signal Processing |
+| Programming Language | Python |
+| Project Type | Academic Team Project |
+| Focus | Signal Analysis and Classification |
+| AI Approach | Agentic AI Concepts |
 
 ---
-Developed as an Electronics and Communication Engineering project.
+
+**Note:** This repository contains project documentation, images and the available project archive. Individual source files are not currently provided.
